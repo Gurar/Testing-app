@@ -1,0 +1,1 @@
+{"version":1,"defects":{"EmployeeControllerTest::test1":5,"EmployeeControllerTest::testGetAllJsonReturnsJson":3},"times":{"EmployeeControllerTest::test1":0.02,"EmployeeControllerTest::testGetAllJsonReturnsJson":0.05}}
